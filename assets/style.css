@@ -1,7 +1,7 @@
 :root {
-    --text-color: #e9dbef;
-    --card-front-color: #4d42b3;
-    --card-back-color: #c894e6;
+    --text-color: #e2cff1;
+    --card-front-color: #6043c5;
+    --card-back-color: #5500c5;
 }
 
 body {
@@ -98,3 +98,4 @@ footer p {
     font-size: 0.6rem;
     margin-top: 0.5rem;
 }
+      
