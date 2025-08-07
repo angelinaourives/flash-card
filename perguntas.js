@@ -1,13 +1,13 @@
 criaCartao(
     'Programação',
-    'O que você masi gosta de fazer?',
+    'O que você mais gosta de fazer?',
     'Fica sem fazer nada'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital da Argentina?',
+    'A capital da França é Bueno Aires'
 )
 
 criaCartao(
