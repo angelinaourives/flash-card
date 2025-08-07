@@ -1,22 +1,22 @@
-criaCartao(
-    'Programação',
+criacartao(
+    'Lazer'
     'O que você mais gosta de fazer?',
     'Fica sem fazer nada'
 )
 
-criaCartao(
+criacartao(
     'Geografia',
     'Qual a capital da Argentina?',
     'A capital da Argentina é Bueno Aires'
 )
 
-criaCartao(
-    'Programação',
+criacartao(
+    'Escola',
     'Qual sua materia preferida?',
     'Matematica2 '
 )
 
-criaCartao(
+criacartao(
     'Lingua inglesa',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
