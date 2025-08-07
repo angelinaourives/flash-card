@@ -1,23 +1,23 @@
-criacartao(
-    'Lazer'
-    'O que você mais gosta de fazer?',
-    'Fica sem fazer nada'
+criaCartao(
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
 )
 
-criacartao(
+criaCartao(
     'Geografia',
-    'Qual a capital da Argentina?',
-    'A capital da Argentina é Bueno Aires'
+    'Qual a capital da Alemanha?',
+    'A capital da Argentina é Buenos Aires'
 )
 
-criacartao(
-    'Escola',
-    'Qual sua materia preferida?',
-    'Matematica2 '
+criaCartao(
+    'lazer',
+    'O que você mais gosta de fazer?',
+    'Nada'
 )
 
-criacartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+criaCartao(
+    'Logica',
+    'A Sara tem que me escutar?',
+    'Com toda a certeza'
 )
